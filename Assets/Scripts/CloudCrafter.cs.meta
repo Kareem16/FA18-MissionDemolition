@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: 257823764008d4568ae7abb9a7a15f5c
-timeCreated: 1529332176
-licenseType: Free
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - cloudPrefab: {fileID: 1289228957973438, guid: f11a3535bbceb4c15b698050f281808b,
+      type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

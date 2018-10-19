@@ -10,7 +10,8 @@ public class CloudCrafter : MonoBehaviour {
 	public Vector3 cloudPosMax = new Vector3 (150, 100,10);
 	public float cloudScaleMin= 1;
 	public float cloudScaleMax= 3;
-		public float cloudSpeedMult = 0.5f;
+	public float cloudSpeedMult = 0.5f;
+
 	private GameObject[] cloudInstances;
 
 	void Awake(){
